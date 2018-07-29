@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the action bar -->
+    <string name="app_name">Kedai Kopi</string>
+    <!-- name input section -->
+    <string name="Name">Nama</string>
+    <!-- header for the list of toppings -->
+    <string name="Toppings">topping</string>
+    <!-- toppings options -->
+    <string name="Whipped_Cream">Krim Putar</string>
+    <string name="Chocolate">Coklat</string>
+    <string name="order">Pesan</string>
+    <string name="Quantity">Kuantiti</string>
+    <string name="Thank_you">Terima Kasih</string>
+</resources>
